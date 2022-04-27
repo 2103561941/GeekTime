@@ -1,6 +1,6 @@
 {
     "files.associations": {
-        "iostream": "cpp",
+        "memory": "cpp",
         "algorithm": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -20,10 +20,10 @@
         "initializer_list": "cpp",
         "ios": "cpp",
         "iosfwd": "cpp",
+        "iostream": "cpp",
         "istream": "cpp",
         "iterator": "cpp",
         "limits": "cpp",
-        "memory": "cpp",
         "new": "cpp",
         "ostream": "cpp",
         "stdexcept": "cpp",
@@ -42,6 +42,9 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "vector": "cpp",
+        "stack": "cpp",
+        "stdio.h": "c"
     }
 }
